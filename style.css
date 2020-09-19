@@ -1,0 +1,20 @@
+body{
+background-color: #e7305b;
+}
+.first{
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 38%;
+  color: white;
+  font-family: 'Courgette', cursive;
+}
+.second{
+  position: absolute;
+  display: inline-block;
+  margin-top: 10%;
+  margin-left: 38%;
+}
+#id01{
+  display: inline-block;
+
+}
